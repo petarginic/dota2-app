@@ -1,0 +1,43 @@
+.footer {
+    height: 10rem;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .footer-content {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 100%;
+        width: 34%;
+        .navbar-logo-footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            text-decoration: none;
+
+            cursor: pointer;
+            font-family: 'Inspiration', cursive;
+            font-size: 2rem;
+            color: white;
+
+            img {
+                height: 2rem;
+                margin-left: 6px;
+            }
+        }
+
+        .footer-icons {
+            p {
+                color: white;
+                text-align: center;
+                font-size: 1rem;
+                font-weight: 0;
+            }
+            margin-left: 5px;
+            display: flex;
+            flex-direction: row;
+        }
+    }
+}

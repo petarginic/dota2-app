@@ -1,0 +1,90 @@
+.hero-details {
+    height: 100vh;
+    width: 100%;
+    max-width: 100vw;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.3);
+    object-fit: contain;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    .hero-details-content {
+        width: 80%;
+        max-width: 100rem;
+        height: fit-content;
+        min-height: 60%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        justify-content: center;
+        color: white;
+        box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.4);
+        border-radius: 10px;
+
+        @include media($xxl) {
+            padding-left: 7%;
+        }
+
+        @include media($xl) {
+            padding-left: 7%;
+        }
+
+        @include media($lg) {
+            padding-top: 5%;
+            padding-bottom: 5%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        @include media($md) {
+            padding-top: 15%;
+            padding-left: 0;
+        }
+
+        @include media($sm) {
+            padding-top: 25%;
+            padding-left: 0;
+        }
+
+        .hero-details-card {
+            color: white;
+            width: 50%;
+            display: flex;
+            align-items: center;
+        }
+
+        .hero-details-description {
+            color: white;
+            width: 50%;
+
+            padding: 2rem;
+            border-radius: 3rem;
+            h1 {
+                text-transform: uppercase;
+            }
+
+            p {
+                margin-top: 10px;
+                font-weight: 800;
+                font-size: 1.4rem;
+                font-family: 'Dancing Script', cursive;
+            }
+        }
+    }
+
+    .hero-details-buttons {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        margin-left: 10px;
+
+        .button-details {
+            margin-left: 10px;
+            padding-top: 20px;
+        }
+    }
+}

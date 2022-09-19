@@ -1,0 +1,114 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    z-index: 999;
+    height: 5rem;
+    background-color: transparent;
+    top: 0;
+    position: absolute;
+    width: 100%;
+
+    .navbar-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 5rem;
+        max-width: 100rem;
+
+        .nav-menu-none {
+            display: none;
+        }
+
+        .bars {
+            color: white;
+            font-size: 2rem;
+            cursor: pointer;
+            margin-left: 7rem;
+        }
+
+        .nav-menu {
+            display: grid;
+            grid-template-columns: repeat(5, auto);
+            grid-gap: 2rem;
+            list-style: none;
+            text-align: center;
+            width: 60vw;
+            margin-left: 2rem;
+            justify-content: end;
+            font-size: 1.5rem;
+            cursor: pointer;
+            font-family: 'Dancing Script', cursive;
+        }
+
+        .nav-item {
+            .nav-links {
+                color: white;
+                text-decoration: none;
+
+                &:hover {
+                    font-weight: 800;
+                    color: #971111;
+                }
+            }
+        }
+
+        .navbar-logo {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-decoration: none;
+            cursor: pointer;
+            font-family: 'Inspiration', cursive;
+            font-size: 2rem;
+            color: white;
+
+            img {
+                height: 2rem;
+                margin-left: 6px;
+            }
+        }
+    }
+}
+
+.mobile-navbar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    height: fit-content;
+    width: 100%;
+    padding-bottom: 20px;
+    background: linear-gradient(270deg, #000000 0%, #3d1f1f 100%);
+
+    ul {
+        width: 50%;
+        text-decoration: none;
+
+        .mobile-nav-item {
+            text-decoration: none;
+            font-size: 2.5rem;
+            background-color: #c3e1e3;
+            font-family: 'Dancing Script', cursive;
+            list-style: none;
+            padding: 10px;
+            margin-top: 20px;
+            border: 1px solid black;
+            border-radius: 5px;
+            text-align: center;
+        }
+    }
+
+    .nav-mobile-links {
+        color: black;
+        text-decoration: none;
+        font-weight: 800;
+
+        &:hover {
+            font-weight: bold;
+            color: #971111;
+        }
+    }
+}

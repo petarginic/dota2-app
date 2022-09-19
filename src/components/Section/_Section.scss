@@ -1,0 +1,70 @@
+.section {
+    position: relative;
+
+    .section-image {
+        box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.9);
+        background-color: black;
+        min-height: 100vh;
+        height: fit-content;
+        background-image: url('../../assets/images/dota2.png');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-bottom: 5rem;
+
+        .section-content-text {
+            @include media($xs) {
+                font-size: 16px;
+            }
+
+            @include media($sm) {
+                font-size: 19px;
+            }
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            color: white;
+            padding-top: 10%;
+            cursor: pointer;
+            font-family: 'Dancing Script', cursive;
+            font-size: 2rem;
+        }
+
+        .section-card-heroes {
+            @include media($xxl) {
+                grid-template-columns: auto auto auto auto;
+            }
+
+            @include media($xl) {
+                grid-template-columns: auto auto auto auto;
+            }
+
+            @include media($lg) {
+                grid-template-columns: auto auto;
+            }
+
+            @include media($md) {
+                grid-template-columns: auto auto;
+            }
+
+            @include media($sm) {
+                grid-template-columns: auto;
+            }
+            display: grid;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            gap: 3rem;
+            margin-top: 5rem;
+
+            cursor: pointer;
+
+            .card-hero {
+                &:hover {
+                    transform: scale(1.1);
+                }
+            }
+        }
+    }
+}

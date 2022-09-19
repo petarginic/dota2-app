@@ -1,0 +1,17 @@
+.my-btn {
+    display: block;
+    padding: 0.5rem;
+    border: 2px solid white;
+    min-width: 9rem;
+    width: fit-content;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+    &:hover {
+        font-weight: bold;
+        color: white;
+        border-color: white;
+        background-color: #971111;
+    }
+}

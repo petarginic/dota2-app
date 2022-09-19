@@ -1,0 +1,87 @@
+@import './assets/scss/index';
+@import './components/index';
+@include startSettings;
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.banner-content {
+    display: flex;
+    flex-direction: column;
+
+    gap: 0.4rem;
+    height: 100%;
+    color: white;
+    text-transform: uppercase;
+
+    @include media($xxl) {
+        align-items: flex-end;
+        justify-content: center;
+        margin-right: 20%;
+        h2 {
+            padding-top: 2rem;
+            font-size: 2rem;
+        }
+
+        h1 {
+            font-size: 2rem;
+            color: wheat;
+        }
+    }
+
+    @include media($xl) {
+        align-items: flex-end;
+        justify-content: center;
+        margin-right: 20%;
+        h2 {
+            padding-top: 2rem;
+            font-size: 2rem;
+        }
+
+        h1 {
+            font-size: 2rem;
+            color: wheat;
+        }
+    }
+
+    @include media($lg) {
+        h2 {
+            padding-top: 2rem;
+            font-size: 2rem;
+        }
+
+        h1 {
+            font-size: 2rem;
+            color: wheat;
+        }
+    }
+
+    @include media($md) {
+        align-items: flex-end;
+        justify-content: center;
+
+        h2 {
+            padding-top: 2rem;
+            font-size: 2rem;
+        }
+
+        h1 {
+            font-size: 2rem;
+            color: wheat;
+        }
+    }
+
+    @include media($sm) {
+        h2 {
+            padding-top: 2rem;
+            font-size: 2rem;
+        }
+
+        h1 {
+            font-size: 2rem;
+            color: wheat;
+        }
+    }
+}

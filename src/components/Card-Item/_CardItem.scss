@@ -1,0 +1,25 @@
+.card-item {
+    height: 5rem;
+    width: 5rem;
+    border-radius: 22px;
+    background-position: center;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.1);
+    position: relative;
+
+    h3 {
+        display: none;
+    }
+
+    &:hover {
+        transform: scale(1.1);
+        filter: drop-shadow(9px -1px 16px #d2fff5);
+        h3 {
+            display: block;
+            color: white;
+            position: absolute;
+            left: 7px;
+            bottom: 5px;
+            font-family: 'Dancing Script', cursive;
+        }
+    }
+}

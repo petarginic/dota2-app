@@ -1,0 +1,649 @@
+{
+    "heroes": [
+        {
+            "id": 101,
+            "name": "Alchemist",
+            "front_image": "http://orcz.com/images/thumb/9/96/Dota2alchemist.jpg/400px-Dota2alchemist.jpg",
+            "back_image": "https://gamepunk.net/wp-content/uploads/2022/01/Best-Alchemist-Counters-in-Dota-2-1.jpg",
+            "group": "Strength",
+            "attack_type": "Melee",
+            "details": "The sacred science of Chymistry was a Darkbrew family tradition, but no Darkbrew had ever shown the kind of creativity, ambition, and recklessness of young Razzil.However, when adulthood came calling he pushed aside the family trade to try his hand at manufacturing gold through Alchemy.In an act of audacity befitting his reputation, Razzil announced he would transmute an entire mountain into gold."
+        },
+
+        {
+            "id": 102,
+            "name": "Anti-Mage",
+            "front_image": "https://www.dotafire.com/images/hero/icon/anti-mage.png",
+            "back_image": "https://estnn.com/wp-content/uploads/2021/12/d2anitmage-747x420.jpg",
+            "group": "Agility",
+            "attack_type": "Melee",
+            "details": "Should Anti-Mage have the opportunity to gather his full strength, few can stop his assaults. Draining mana from enemies with every strike or teleporting short distances to escape an ambush, cornering him is a challenge for any foe.The monks of Turstarkuri watched the rugged valleys below their mountain monastery as wave after wave of invaders swept through the lower kingdoms. Ascetic and pragmatic, in their remote monastic eyrie they remained aloof from mundane strife, wrapped in meditation that knew no gods or elements of magic."
+        },
+
+        {
+            "id": 103,
+            "name": "Bane",
+            "front_image": "https://www.dotafire.com/images/hero/icon/bane.png",
+            "back_image": "https://www.seekpng.com/png/detail/195-1954391_bane-elemental-dota-bane-dota-2-png.png",
+            "group": "Intelligence",
+            "attack_type": "Ranged",
+            "details": "Bane brings terror to his enemies with his arsenal of disabling abilities. Whether trapping a foe within a contagious nightmare, or gripping an enemy in place, he gives allies all the time they need to slay their enemy."
+        },
+
+        {
+            "id": 104,
+            "name": "Bristleback",
+            "front_image": "https://www.dotafire.com/images/hero/icon/bristleback.png",
+            "back_image": "https://cdn-images.win.gg/resize/w/620/format/webp/type/progressive/fit/cover/path/wp/uploads/2021/08/bristleback-and-medusa-nerfs-highlight-dota-2-patch-7-dot-29d.jpg",
+            "group": "Strength",
+            "attack_type": "Melee",
+            "details": "When it comes to a fight, Bristleback really puts his back into it. Reducing all damage arriving from the rear or from the sides, he wades into battle with barely a care, spraying enemies with damaging quills and slowing snot."
+        },
+
+        {
+            "id": 105,
+            "name": "Crystal Maiden",
+            "front_image": "https://www.dotafire.com/images/hero/icon/crystal-maiden.png",
+            "back_image": "https://wallpaperaccess.com/full/2118325.jpg",
+            "group": "Intelligence",
+            "attack_type": "Ranged",
+            "details": "Able to keep her allies supplied with mana as she slows down enemies to ensure a kill, Crystal Maiden is a helpful addition to any team. And, when the opportunity arises, she can unleash her massive ultimate ability to devastate her foes."
+        },
+
+        {
+            "id": 106,
+            "name": "Enigma",
+            "front_image": "https://www.dotafire.com/images/hero/icon/enigma.png",
+            "back_image": "https://img1.goodfon.com/wallpaper/nbig/6/e9/dota-2-enigma-eidolons.jpg",
+            "group": "Intelligence",
+            "attack_type": "Ranged",
+            "details": "Widely feared for his ultimate ability, Enigma can summon a black hole capable of entrapping enemy forces, so that allies can then destroy them. An ever-present contingent of eidolons at his side, he pummels foes with ranged attacks."
+        },
+
+        {
+            "id": 107,
+            "name": "Juggernaut",
+            "front_image": "https://www.dotafire.com/images/hero/icon/juggernaut.png",
+            "back_image": "https://dotesports-media.nyc3.cdn.digitaloceanspaces.com/article/74a0b3e0-1c8d-4fa9-8064-0fb0eaad78a7.jpg",
+            "group": "Agility",
+            "attack_type": "Melee",
+            "details": "In a flurry of slashes, Juggernaut cuts down his foes. Sprinting and spinning into battle with reckless abandon, and nearly invincible once he is able to begin his assault, stopping Juggernaut can often be just as difficult as surviving him."
+        },
+
+        {
+            "id": 108,
+            "name": "Leshrac",
+            "front_image": "https://www.dotafire.com/images/hero/icon/leshrac.png",
+            "back_image": "https://miro.medium.com/max/1400/1*8Cf1iv9BoVsz9GXLHkppfw.jpeg",
+            "group": "Intelligence",
+            "attack_type": "Ranged",
+            "details": "Leshrac's powerful spells lay waste to enemies and their defenses alike. Pushing deep into enemy territory with his devastating edict, careful timing of his ability to split the earth will stun foes, allowing his merciless allies to finish them off."
+        },
+
+        {
+            "id": 109,
+            "name": "Lina",
+            "front_image": "https://www.dotafire.com/images/hero/icon/lina.png",
+            "back_image": "https://gamepunk.net/wp-content/uploads/2021/12/Best-Lina-Counters-in-Dota-2-1.jpg",
+            "group": "Intelligence",
+            "attack_type": "Ranged",
+            "details": "As deadly as she is fragile, Lina effortlessly strikes down any foe foolish enough to be caught alone. Gaining attack speed with each spell she casts, she scours enemies with flame and heat lightning, ensuring few can survive her assaults."
+        },
+
+        {
+            "id": 110,
+            "name": "Lycan",
+            "front_image": "https://www.dotafire.com/images/hero/icon/lycan.png",
+            "back_image": "https://media.steelseriescdn.com/blog/posts/how-lycan-became-the-most-desirable-hero-in-dota-2/1c50b36cb4654be9bed20d0868241b66.jpeg",
+            "group": "Strength",
+            "attack_type": "Melee",
+            "details": "The sacred science of Chymistry was a Darkbrew family tradition, but no Darkbrew had ever shown the kind of creativity, ambition, and recklessness of young Razzil.However, when adulthood came calling he pushed aside the family trade to try his hand at manufacturing gold through Alchemy.In an act of audacity befitting his reputation, Razzil announced he would transmute an entire mountain into gold."
+        },
+
+        {
+            "id": 111,
+            "name": "Mars",
+            "front_image": "https://www.dotafire.com/images/hero/icon/mars.png",
+            "back_image": "https://estnn.com/wp-content/uploads/2022/03/dota2hq.eu-dota-2-mars-wallpaper-hd-4035-1920x1080-1.jpg",
+            "group": "Agility",
+            "attack_type": "Melee",
+            "details": "The warrior deity Mars thrives in the heart of strife, guarded by the bulk of a deadly shield as he skewers enemies with his legendary spear. He revels in facing opponents in an arena ringed with loyal spearmen—who guarantee that no one escapes and that whatever odds he's facing, the god of war can dictate the terms of battle knowing the crowd is forever on his side."
+        },
+
+        {
+            "id": 112,
+            "name": "Necrophos",
+            "front_image": "https://www.dotafire.com/images/hero/icon/necrophos.png",
+            "back_image": "https://dotawallpapers.com/wallpaper/preview/8090709.jpg",
+            "group": "Intelligence",
+            "attack_type": "Ranged",
+            "details": "Wherever Necrophos goes, enemies wither as allies thrive. Restoring health to his friends and harming enemies with each death pulse, once his very presence has eaten away at an enemy, he summons the reaper to lengthen their stay in the afterlife."
+        },
+
+        {
+            "id": 113,
+            "name": "Phantom Lancer",
+            "front_image": "https://www.dotafire.com/images/hero/icon/phantom-lancer.png",
+            "back_image": "https://i.ytimg.com/vi/Y7oaC2gedtM/maxresdefault.jpg",
+            "group": "Agility",
+            "attack_type": "Melee",
+            "details": "Phantom Lancer storms enemy forces with an endless supply of clones. Leading his illusory army, he can cut foes apart in a breathtaking flurry of attacks, send clones to push into enemy territory, or use his doppelgangers to mislead and elude foes if cornered."
+        },
+
+        {
+            "id": 114,
+            "name": "Riki",
+            "front_image": "https://www.dotafire.com/images/hero/icon/riki.png",
+            "back_image": "https://i.pinimg.com/736x/cd/3d/89/cd3d891daf8eff75433db4374d6727f1.jpg",
+            "group": "Agility",
+            "attack_type": "Melee",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+
+        {
+            "id": 115,
+            "name": "Silencer",
+            "front_image": "https://www.dotafire.com/images/hero/icon/silencer.png",
+            "back_image": "https://www.masterdota.com/storage/app/media/uploaded-files/silencer-dota-2-wallpaper-masterdota.png",
+            "group": "Intelligence",
+            "attack_type": "Ranged",
+            "details": "Silencer changes the dynamic of every battle when he shuts down the enemy's ability to cast their spells. As he cuts his foes to ribbons with his glaive, he steals their intelligence to add to his own, ensuring his foes are always at a disadvantage."
+        },
+
+        {
+            "id": 116,
+            "name": "Slardar",
+            "front_image": "https://www.dotafire.com/images/hero/icon/slardar.png",
+            "back_image": "https://estnn.com/wp-content/uploads/2020/02/slar.jpg",
+            "group": "Strength",
+            "attack_type": "Melee",
+            "details": "Ready to find and demolish his foes, Slardar quickly slithers into battle. After exposing an enemy's position and shattering their defenses, he closes the distance to lock them in place with crushing blows and powerful bashes from his trident.foes before they even know he's there."
+        },
+
+        {
+            "id": 117,
+            "name": "Abaddon",
+            "front_image": "https://www.dotafire.com/images/hero/icon/abaddon.png",
+            "back_image": "https://media-management-service.s3.amazonaws.com/media/images/fc0d90bb68f2a7ed9ef86dd460ffcd3f_longread_large.original.jpg",
+            "group": "Strength",
+            "attack_type": "Melee",
+            "details": "The sacred science of Chymistry was a Darkbrew family tradition, but no Darkbrew had ever shown the kind of creativity, ambition, and recklessness of young Razzil.However, when adulthood came calling he pushed aside the family trade to try his hand at manufacturing gold through Alchemy.In an act of audacity befitting his reputation, Razzil announced he would transmute an entire mountain into gold."
+        },
+
+        {
+            "id": 118,
+            "name": "Axe",
+            "front_image": "https://www.dotafire.com/images/hero/icon/axe.png",
+            "back_image": "https://cdn-images.win.gg/resize/w/620/format/webp/type/progressive/fit/cover/path/wp/uploads/2021/07/carry-axe-is-the-newest-dota-2-nightmare-in-pub-matches.png",
+            "group": "Agility",
+            "attack_type": "Melee",
+            "details": "Should Anti-Mage have the opportunity to gather his full strength, few can stop his assaults. Draining mana from enemies with every strike or teleporting short distances to escape an ambush, cornering him is a challenge for any foe.The monks of Turstarkuri watched the rugged valleys below their mountain monastery as wave after wave of invaders swept through the lower kingdoms. Ascetic and pragmatic, in their remote monastic eyrie they remained aloof from mundane strife, wrapped in meditation that knew no gods or elements of magic."
+        },
+
+        {
+            "id": 119,
+            "name": "Bloodseeker",
+            "front_image": "https://www.dotafire.com/images/hero/icon/bloodseeker.png",
+            "back_image": "https://img.besthqwallpapers.com/Uploads/18-4-2019/88132/bloodseeker-4k-darkness-dota-2-monster.jpg",
+            "group": "Intelligence",
+            "attack_type": "Ranged",
+            "details": "Bane brings terror to his enemies with his arsenal of disabling abilities. Whether trapping a foe within a contagious nightmare, or gripping an enemy in place, he gives allies all the time they need to slay their enemy."
+        },
+
+        {
+            "id": 120,
+            "name": "Bounty Hunter",
+            "front_image": "https://www.dotafire.com/images/hero/icon/bounty-hunter.png",
+            "back_image": "https://cdn-images.win.gg/resize/w/620/format/webp/type/progressive/fit/cover/path/wp/uploads/2021/08/complete-guide-to-playing-bounty-hunter-in-dota-2.jpg",
+            "group": "Strength",
+            "attack_type": "Melee",
+            "details": "When it comes to a fight, Bristleback really puts his back into it. Reducing all damage arriving from the rear or from the sides, he wades into battle with barely a care, spraying enemies with damaging quills and slowing snot."
+        },
+
+        {
+            "id": 121,
+            "name": "Chen",
+            "front_image": "https://www.dotafire.com/images/hero/icon/chen.png",
+            "back_image": "https://e-sportcmd368.com/wp-content/uploads/2020/06/Chen-has-a-high-win-rate-at-Pub.png",
+            "group": "Intelligence",
+            "attack_type": "Ranged",
+            "details": "Able to keep her allies supplied with mana as she slows down enemies to ensure a kill, Crystal Maiden is a helpful addition to any team. And, when the opportunity arises, she can unleash her massive ultimate ability to devastate her foes."
+        },
+
+        {
+            "id": 122,
+            "name": "Dazzle",
+            "front_image": "https://www.dotafire.com/images/hero/icon/dazzle.png",
+            "back_image": "https://rare-gallery.com/thumbs/1004212-illustration-purple-Dota-2-Dota-Steam-software-Defense-of-the-Ancients-dazzle-flower-screenshot-computer-wallpaper-fractal-art.jpg",
+            "group": "Intelligence",
+            "attack_type": "Ranged",
+            "details": "Widely feared for his ultimate ability, Enigma can summon a black hole capable of entrapping enemy forces, so that allies can then destroy them. An ever-present contingent of eidolons at his side, he pummels foes with ranged attacks."
+        },
+
+        {
+            "id": 123,
+            "name": "Drow Ranger",
+            "front_image": "https://www.dotafire.com/images/hero/icon/drow-ranger.png",
+            "back_image": "https://www.dotafire.com/images/social/heroes/drow-ranger.jpg",
+            "group": "Agility",
+            "attack_type": "Melee",
+            "details": "In a flurry of slashes, Juggernaut cuts down his foes. Sprinting and spinning into battle with reckless abandon, and nearly invincible once he is able to begin his assault, stopping Juggernaut can often be just as difficult as surviving him."
+        },
+
+        {
+            "id": 124,
+            "name": "Disruptor",
+            "front_image": "https://www.dotafire.com/images/hero/icon/disruptor.png",
+            "back_image": "https://c4.wallpaperflare.com/wallpaper/556/810/355/disruptor-dota-2-art-wallpaper-preview.jpg",
+            "group": "Intelligence",
+            "attack_type": "Ranged",
+            "details": "Leshrac's powerful spells lay waste to enemies and their defenses alike. Pushing deep into enemy territory with his devastating edict, careful timing of his ability to split the earth will stun foes, allowing his merciless allies to finish them off."
+        },
+
+        {
+            "id": 125,
+            "name": "Enchantress",
+            "front_image": "https://www.dotafire.com/images/hero/icon/enchantress.png",
+            "back_image": "https://www.dotafire.com/images/social/heroes/enchantress.jpg",
+            "group": "Intelligence",
+            "attack_type": "Ranged",
+            "details": "As deadly as she is fragile, Lina effortlessly strikes down any foe foolish enough to be caught alone. Gaining attack speed with each spell she casts, she scours enemies with flame and heat lightning, ensuring few can survive her assaults."
+        },
+
+        {
+            "id": 126,
+            "name": "Meepo",
+            "front_image": "https://www.dotafire.com/images/hero/icon/meepo.png",
+            "back_image": "https://cdn1.dotesports.com/wp-content/uploads/2018/08/08200301/Meepo_update_splash.jpg",
+            "group": "Strength",
+            "attack_type": "Melee",
+            "details": "The sacred science of Chymistry was a Darkbrew family tradition, but no Darkbrew had ever shown the kind of creativity, ambition, and recklessness of young Razzil.However, when adulthood came calling he pushed aside the family trade to try his hand at manufacturing gold through Alchemy.In an act of audacity befitting his reputation, Razzil announced he would transmute an entire mountain into gold."
+        },
+
+        {
+            "id": 127,
+            "name": "Legion",
+            "front_image": "https://www.dotafire.com/images/hero/icon/legion-commander.png",
+            "back_image": "https://img.game-news24.com/2022/08/How-to-play-a-milion-in-Dota-2-42.png",
+            "group": "Agility",
+            "attack_type": "Melee",
+            "details": "The warrior deity Mars thrives in the heart of strife, guarded by the bulk of a deadly shield as he skewers enemies with his legendary spear. He revels in facing opponents in an arena ringed with loyal spearmen—who guarantee that no one escapes and that whatever odds he's facing, the god of war can dictate the terms of battle knowing the crowd is forever on his side."
+        },
+
+        {
+            "id": 128,
+            "name": "Medusa",
+            "front_image": "https://www.dotafire.com/images/hero/icon/medusa.png",
+            "back_image": "https://i.pinimg.com/originals/59/96/54/599654b9d713c61e6b03b61df11b6c66.jpg",
+            "group": "Agility",
+            "attack_type": "Ranged",
+            "details": "Wherever Necrophos goes, enemies wither as allies thrive. Restoring health to his friends and harming enemies with each death pulse, once his very presence has eaten away at an enemy, he summons the reaper to lengthen their stay in the afterlife."
+        },
+
+        {
+            "id": 129,
+            "name": "Mirana",
+            "front_image": "https://www.dotafire.com/images/hero/icon/mirana.png",
+            "back_image": "http://fc06.deviantart.net/fs70/f/2013/105/1/b/mirana_by_zaphk-d61vxqr.jpg",
+            "group": "Agility",
+            "attack_type": "Ranged",
+            "details": "Phantom Lancer storms enemy forces with an endless supply of clones. Leading his illusory army, he can cut foes apart in a breathtaking flurry of attacks, send clones to push into enemy territory, or use his doppelgangers to mislead and elude foes if cornered."
+        },
+
+        {
+            "id": 130,
+            "name": "Terroblade",
+            "front_image": "https://www.dotafire.com/images/hero/icon/terrorblade.png",
+            "back_image": "https://c4.wallpaperflare.com/wallpaper/497/492/982/dota-2-character-terrorblade-metamorphosis-splash-art-wallpaper-hd-1920%C3%971200-wallpaper-preview.jpg",
+            "group": "Agility",
+            "attack_type": "Melee",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+
+        {
+            "id": 131,
+            "name": "Pudge",
+            "front_image": "https://www.dotafire.com/images/hero/icon/pudge.png",
+            "back_image": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/04/Dota-2-Pudge.jpg",
+            "group": "Agility",
+            "attack_type": "Ranged",
+            "details": "Phantom Lancer storms enemy forces with an endless supply of clones. Leading his illusory army, he can cut foes apart in a breathtaking flurry of attacks, send clones to push into enemy territory, or use his doppelgangers to mislead and elude foes if cornered."
+        },
+
+        {
+            "id": 132,
+            "name": "Pugna",
+            "front_image": "https://www.dotafire.com/images/hero/icon/pugna.png",
+            "back_image": "https://7wallpapers.net/wp-content/uploads/10_Dota2-Pugna.jpg",
+            "group": "Intelligence",
+            "attack_type": "Ranged",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+
+        {
+            "id": 133,
+            "name": "Queen of pain",
+            "front_image": "https://www.dotafire.com/images/hero/icon/queen-of-pain.png",
+            "back_image": "https://media-management-service.s3.amazonaws.com/media/images/47ea35a97e1194be3d1dde5c2ea37c7d_large_cover.3B.original.jpg",
+            "group": "Agility",
+            "attack_type": "Ranged",
+            "details": "Phantom Lancer storms enemy forces with an endless supply of clones. Leading his illusory army, he can cut foes apart in a breathtaking flurry of attacks, send clones to push into enemy territory, or use his doppelgangers to mislead and elude foes if cornered."
+        },
+
+        {
+            "id": 134,
+            "name": "Shadow Fiend",
+            "front_image": "https://www.dotafire.com/images/hero/icon/shadow-fiend.png",
+            "back_image": "https://estnn.com/wp-content/uploads/2021/03/shadow-fiend-dota-747x420.jpg",
+            "group": "Agility",
+            "attack_type": "Ranged",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+
+        {
+            "id": 135,
+            "name": "Shadow Shaman",
+            "front_image": "https://www.dotafire.com/images/hero/icon/shadow-shaman.png",
+            "back_image": "https://gamepunk.net/wp-content/uploads/2022/07/How-to-Play-Shadow-Shaman-in-Dota-2-5.png",
+            "group": "Intelligence",
+            "attack_type": "Ranged",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+
+        {
+            "id": 136,
+            "name": "Sniper",
+            "front_image": "https://www.dotafire.com/images/hero/icon/sniper.png",
+            "back_image": "https://dota2ok.ru/wp-content/uploads/2017/05/Sniper-Dota.jpg",
+            "group": "Agility",
+            "attack_type": "Melee",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        }
+    ],
+
+    "items": [
+        {
+            "id": 101,
+            "name": "Abyssal blade",
+            "front_image": "https://www.dotafire.com/images/item/abyssal-blade.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+
+        {
+            "id": 102,
+            "name": "Aeon Disc",
+            "front_image": "https://www.dotafire.com/images/item/aeon-disk.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+
+        {
+            "id": 103,
+            "name": "Aghanim's scepter",
+            "front_image": "https://www.dotafire.com/images/item/aghanims-scepter.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+
+        {
+            "id": 104,
+            "name": "Arcane boots",
+            "front_image": "https://www.dotafire.com/images/item/arcane-boots.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 105,
+            "name": "Armlet",
+            "front_image": "https://www.dotafire.com/images/item/armlet-of-mordiggian.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 106,
+            "name": "Assault Cuirass",
+            "front_image": "https://www.dotafire.com/images/item/assault-cuirass.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 107,
+            "name": "Battle Furry",
+            "front_image": "https://www.dotafire.com/images/item/battle-fury.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 108,
+            "name": "Black King Bar",
+            "front_image": "https://www.dotafire.com/images/item/black-king-bar.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 109,
+            "name": "Blade Mail",
+            "front_image": "https://www.dotafire.com/images/item/blade-mail.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 110,
+            "name": "Bloodstone",
+            "front_image": "https://www.dotafire.com/images/item/bloodstone.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 111,
+            "name": "Bloodthotn",
+            "front_image": "https://www.dotafire.com/images/item/bloodthorn.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 112,
+            "name": "Blink Dagger",
+            "front_image": "https://www.dotafire.com/images/item/blink-dagger.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 113,
+            "name": "Boots of Travel",
+            "front_image": "https://www.dotafire.com/images/item/boots-of-travel.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 114,
+            "name": "Butterfly",
+            "front_image": "https://www.dotafire.com/images/item/butterfly.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 115,
+            "name": "Crimson Guard",
+            "front_image": "https://www.dotafire.com/images/item/crimson-guard.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 116,
+            "name": "Daedalus",
+            "front_image": "https://www.dotafire.com/images/item/daedalus.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 117,
+            "name": "Dagon",
+            "front_image": "https://www.dotafire.com/images/item/dagon-5.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 118,
+            "name": "Desolator",
+            "front_image": "https://www.dotafire.com/images/item/desolator.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 119,
+            "name": "Diffusal Blade",
+            "front_image": "https://www.dotafire.com/images/item/diffusal-blade.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 120,
+            "name": "Divine",
+            "front_image": "https://www.dotafire.com/images/item/divine-rapier.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 121,
+            "name": "Dragon Lance",
+            "front_image": "https://www.dotafire.com/images/item/dragon-lance.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 122,
+            "name": "Eye Of Skadi",
+            "front_image": "https://www.dotafire.com/images/item/eye-of-skadi.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 123,
+            "name": "Falcon Blade",
+            "front_image": "https://www.dotafire.com/images/item/falcon-blade.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+
+        {
+            "id": 124,
+            "name": "Glimmer Cape",
+            "front_image": "https://www.dotafire.com/images/item/glimmer-cape.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+
+        {
+            "id": 125,
+            "name": "Hand Of Midas",
+            "front_image": "https://www.dotafire.com/images/item/hand-of-midas.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+
+        {
+            "id": 126,
+            "name": "Hearth Of Tarrasque",
+            "front_image": "https://www.dotafire.com/images/item/heart-of-tarrasque.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+
+        {
+            "id": 127,
+            "name": "Hurricane Pike",
+            "front_image": "https://www.dotafire.com/images/item/hurricane-pike.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 128,
+            "name": "Kaya",
+            "front_image": "https://www.dotafire.com/images/item/kaya.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 129,
+            "name": "Kaya And Sange",
+            "front_image": "https://www.dotafire.com/images/item/kaya-and-sange.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 130,
+            "name": "Maelstrom",
+            "front_image": "https://www.dotafire.com/images/item/maelstrom.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 131,
+            "name": "Manta Style",
+            "front_image": "https://www.dotafire.com/images/item/manta-style.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 132,
+            "name": "Mask Of Madness",
+            "front_image": "https://www.dotafire.com/images/item/mask-of-madness.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 133,
+            "name": "Mekansm",
+            "front_image": "https://www.dotafire.com/images/item/mekansm.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 134,
+            "name": "Mjollnir",
+            "front_image": "https://www.dotafire.com/images/item/mjollnir.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 135,
+            "name": "Monkey King Bar",
+            "front_image": "https://www.dotafire.com/images/item/monkey-king-bar.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 136,
+            "name": "Octarine Core",
+            "front_image": "https://www.dotafire.com/images/item/octarine-core.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 137,
+            "name": "Phase Boots",
+            "front_image": "https://www.dotafire.com/images/item/phase-boots.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 138,
+            "name": "Ring Of Aquila",
+            "front_image": "https://www.dotafire.com/images/item/ring-of-aquila.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 139,
+            "name": "Sange And Yasha",
+            "front_image": "https://www.dotafire.com/images/item/sange-and-yasha.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 140,
+            "name": "Satanic",
+            "front_image": "https://www.dotafire.com/images/item/satanic.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 141,
+            "name": "Shadow Blade",
+            "front_image": "https://www.dotafire.com/images/item/shadow-blade.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 142,
+            "name": "Skull Basher",
+            "front_image": "https://www.dotafire.com/images/item/skull-basher.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 143,
+            "name": "Vanguard",
+            "front_image": "https://www.dotafire.com/images/item/vanguard.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 144,
+            "name": "Voodoo Mask",
+            "front_image": "https://www.dotafire.com/images/item/voodoo-mask.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 145,
+            "name": "Wraith Band",
+            "front_image": "https://www.dotafire.com/images/item/wraith-band.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        },
+        {
+            "id": 146,
+            "name": "Yasha",
+            "front_image": "https://www.dotafire.com/images/item/yasha.png",
+            "details": "Riki stalks the battlefield, unseen by the enemy. He chooses his moment carefully and bursts forth in a puff of silencing smoke, stabbing at his foes before they even know he's there."
+        }
+    ]
+}
